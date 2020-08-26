@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <!--
-    提交新的东西
+    提交新的东西123
     -->
     <modules>
         <module>dubbo-provider</module>
